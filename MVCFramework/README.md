@@ -1,4 +1,4 @@
-This file creates a simple MVC framework in a given directory.
+This script creates a simple MVC framework for Java in a given directory.
 
 Usage: ./mvc.sh [DIRECTORY]
 
